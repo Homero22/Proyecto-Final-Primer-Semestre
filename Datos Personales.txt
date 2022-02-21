@@ -1,0 +1,14 @@
+
+Psicologia	Cedula:1550168494
+Nombre:homero ojeda
+Edad:21
+Sexo:m
+Turno :Psicologia	7:00  am - 8:00  am
+-----------------------------------------
+-----------------------
+Cedula:1550168494
+Nombre:Homero
+Edad:23
+Sexo:M
+Turno :Odontologia	7:00  am - 8:00  am
+-----------------------------------------
